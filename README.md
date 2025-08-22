@@ -49,7 +49,3 @@ The application will open in your default browser at `http://localhost:3000`
 - Material-UI
 - React Router
 - Modern JavaScript (ES6+)
-
-## License
-
-This project is licensed under the MIT License. 
